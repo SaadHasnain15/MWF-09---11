@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <Name>Saud Sakaria</Name>
+        <Father_name>Saleem Sakaria</Father_name>
+        <Address>APTECH TR</Address>
+        <Contact>+923003112235</Contact>
+    </Student>
+    <Student>
+        <Name>Shahzaib Majid</Name>
+        <Father_name>Majid Ali</Father_name>
+        <Address>APTECH TR</Address>
+        <Contact>+923003114555</Contact>
+    </Student>
+    <Student>
+        <Name>Armish Essani</Name>
+        <Father_name>Naseem Essani</Father_name>
+        <Address>APTECH TR</Address>
+        <Contact>+923003133535</Contact>
+    </Student>
+    <Student>
+        <Name>Muniba Farooq</Name>
+        <Father_name>Farooq Ahmed</Father_name>
+        <Address>APTECH TR</Address>
+        <Contact>+923003112485</Contact>
+    </Student>
+</Students>
